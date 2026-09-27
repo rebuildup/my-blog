@@ -1,0 +1,23 @@
+# 記事自体のメタデータ
+title: "Hello, World"
+slug: hello-world
+created: 2026-09-27
+updated: 2026-09-27
+status: draft
+tags:
+  - example
+  - meta
+
+# プラットフォーム別の公開情報
+publish:
+  qiita:
+    published: false
+  zenn:
+    published: false
+  note:
+    published: false
+
+# 著者のメモ
+notes:
+  audience: all
+  purpose: "リポジトリ構造の動作確認用サンプル記事"

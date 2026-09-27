@@ -1,0 +1,20 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE temp files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local-only scratch space (future use)
+/drafts/
+
+# Build artifacts (future use)
+/dist/
+/build/
+/out/
