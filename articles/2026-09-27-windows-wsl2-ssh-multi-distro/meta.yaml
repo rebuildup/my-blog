@@ -1,0 +1,23 @@
+title: "WindowsからWSL2へSSH接続する：鍵認証・自動起動・複数ディストリまで"
+slug: windows-wsl2-ssh-multi-distro
+created: 2026-09-27
+updated: 2026-09-27
+status: draft
+tags:
+  - Windows11
+  - WSL2
+  - SSH
+  - OpenSSH
+  - PowerShell
+
+publish:
+  qiita:
+    published: false
+  zenn:
+    published: false
+  note:
+    published: false
+
+notes:
+  audience: intermediate
+  purpose: "Windows と WSL2 を SSH で接続し、SSH 前提のツールから扱えるようにするための実践手順"
